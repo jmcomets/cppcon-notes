@@ -1,4 +1,4 @@
-Parallel Programming : Is It Still Hard?
+Parallel Programming: Is It Still Hard?
 =========================================
 
 # First speaker: Michael Wong
