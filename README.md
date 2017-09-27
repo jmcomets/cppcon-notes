@@ -11,3 +11,4 @@ Take note that these are my short notes from the conference, there may be missin
 - [Multi-threading is the answer, what is the question? (part 2)](https://github.com/jmcomets/cppcon-notes/blob/master/multithreading-is-the-answer-what-is-the-question-part-2.md)
 - [10 Core Guidelines You Should Start Using Today](https://github.com/jmcomets/cppcon-notes/blob/master/10-core-guidelines.md)
 - [Compile-Time Support For Reflection](https://github.com/jmcomets/cppcon-notes/blob/master/reflection.md)
+- [Reader-Writer Lock vs Mutex, understanding a lost bet](https://github.com/jmcomets/cppcon-notes/blob/master/rw-lock-vs-mutex-understanding-a-lost-bet.md)
