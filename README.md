@@ -10,3 +10,4 @@ Take note that these are my short notes from the conference, there may be missin
 - [Value Semantics in C++17](https://github.com/jmcomets/cppcon-notes/blob/master/value-semantics.md)
 - [Multi-threading is the answer, what is the question? (part 2)](https://github.com/jmcomets/cppcon-notes/blob/master/multithreading-is-the-answer-what-is-the-question-part-2.md)
 - [10 Core Guidelines You Should Start Using Today](https://github.com/jmcomets/cppcon-notes/blob/master/10-core-guidelines.md)
+- [Compile-Time Support For Reflection](https://github.com/jmcomets/cppcon-notes/blob/master/reflection.md)
