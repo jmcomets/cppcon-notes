@@ -24,4 +24,5 @@ Take note that these are my short notes from the conference, there may be missin
 
 - [Runtime Polymorphism in C++](https://github.com/jmcomets/cppcon-notes/blob/master/runtime-polymorphism.md)
 - [Writing Effective Documentation for C++ Libraries](https://github.com/jmcomets/cppcon-notes/blob/master/writing-effective-documentation-for-cpp-libraries.md)
+- [Naked Coroutines Live With Networking](https://github.com/jmcomets/cppcon-notes/blob/master/naked-coroutines-live-with-networking.md)
 
