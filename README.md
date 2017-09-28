@@ -19,3 +19,7 @@ Take note that these are my short notes from the conference, there may be missin
 - [Compile-Time Support For Reflection](https://github.com/jmcomets/cppcon-notes/blob/master/reflection.md)
 - [Reader-Writer Lock vs Mutex, understanding a lost bet](https://github.com/jmcomets/cppcon-notes/blob/master/rw-lock-vs-mutex-understanding-a-lost-bet.md)
 - [An -Overly- Not so Complicated Lock-free Queue (Part 2 of N)](https://github.com/jmcomets/cppcon-notes/blob/master/an-overly-not-so-complicated-lock-free-queue-part-2-of-n.md)
+
+# Thursday
+
+- [Runtime Polymorphism in C++](https://github.com/jmcomets/cppcon-notes/blob/master/runtime-polymorphism.md)
